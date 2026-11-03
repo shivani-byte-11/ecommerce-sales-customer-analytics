@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# E-commerce project: exclude raw datasets
+dataset/raw/
+
+# Project environment files
+.env
