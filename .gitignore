@@ -224,3 +224,7 @@ dataset/raw/
 
 # Project environment files
 .env
+
+
+dataset/*.pkl
+dataset/processed/
